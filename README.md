@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @DiamondHalder
 [![trophy](https://github-profile-trophy.vercel.app/?username=DiamondHalder&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiamondHalder&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!---
