@@ -2,6 +2,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DiamondHalder&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiamondHalder&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondHalder&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiamondHalder&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark)
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+- [Understanding Data Structures](https://yourblog.com/data-structures)
+- [Beginner’s Guide to C++](https://yourblog.com/cpp-beginners)
 
 
 
