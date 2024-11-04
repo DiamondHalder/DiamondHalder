@@ -14,7 +14,8 @@
 
 - [Understanding Data Structures](https://yourblog.com/data-structures)
 - [Beginner’s Guide to C++](https://yourblog.com/cpp-beginners)
-![GitHub Contribution Snake](https://github.com/DiamondHalder/DiamondHalder/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/DiamondHalder/DiamondHalder/output/github-contribution-grid-snake.svg)
 
 
 
