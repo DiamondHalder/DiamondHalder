@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondHalder&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiamondHalder&theme=light)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DiamondHalder&theme=react)
+
 
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -14,7 +14,7 @@
 
 - [Understanding Data Structures](https://yourblog.com/data-structures)
 - [Beginner’s Guide to C++](https://yourblog.com/cpp-beginners)
-
+![GitHub Contribution Snake](https://github.com/DiamondHalder/DiamondHalder/blob/output/github-contribution-grid-snake.svg)
 
 
 
