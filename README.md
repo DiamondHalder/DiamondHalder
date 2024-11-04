@@ -2,7 +2,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DiamondHalder&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiamondHalder&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondHalder&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiamondHalder&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiamondHalder&theme=light)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-light)
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
