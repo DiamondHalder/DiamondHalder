@@ -62,7 +62,7 @@
     <img 
       src="https://gitroll.io/api/badges/profiles/v1/u4Yo7jA0xawSbWk9d3bRUDSTV5o12?theme=light" 
       alt="GitRoll Profile Badge" 
-      style="width: 300px; max-width: 100%;">
+      style="width: 700px; max-width: 100%;">
   </a>
 </p>
 <hr>
