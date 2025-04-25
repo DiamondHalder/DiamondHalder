@@ -83,9 +83,7 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=00C6D7&center=true&vCenter=true&width=500&height=70&lines=Building+dreams+one+commit+at+a+time;Powered+by+curiosity+and+coffee.;Fueled+by+code,+creativity,+and+chaos.;Marking+my+dev+journey,+line+by+line." alt="Footer Animation" />
-</p>
+
 
 
 <! - -Snake - ->
@@ -96,3 +94,6 @@
 </div>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=00C6D7&center=true&vCenter=true&width=500&height=70&lines=Building+dreams+one+commit+at+a+time;Powered+by+curiosity+and+coffee.;Fueled+by+code,+creativity,+and+chaos.;Marking+my+dev+journey,+line+by+line." alt="Footer Animation" />
+</p>
