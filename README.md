@@ -91,4 +91,7 @@
 
 
 
-![snake gif](https://github.com/DiamondHalder/DiamondHalder/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DiamondHalder/DiamondHalder/output/github-contribution-grid-snake.svg" />
+</p>
+
