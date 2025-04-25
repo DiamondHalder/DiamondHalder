@@ -88,7 +88,11 @@
 </p>
 
 
-
-
+<! - -Snake - ->
+<div align="center">
 
 ![snake gif](https://github.com/DiamondHalder/DiamondHalder/blob/output/github-snake.svg)
+
+</div>
+
+
