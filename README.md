@@ -58,12 +58,15 @@
 
 <h1 align="center">🌟 GitHub Roll Badge</h1>
 <p align="center">
-    <a href="https://gitroll.io/profile/u4Yo7jA0xawSbWk9d3bRUDSTV5o12">
-        <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-ce6c-61f7-aba0-508321817f3b/raw?se=2025-04-25T08%3A55%3A22Z&sp=r&sv=2024-08-04&sr=b&scid=4cdd0661-c242-5c65-8754-32deea89bd5d&skoid=ae70be19-8043-4428-a990-27c58b478304&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-25T00%3A05%3A57Z&ske=2025-04-26T00%3A05%3A57Z&sks=b&skv=2024-08-04&sig=Xh5w8pwsVRds51Mu8h1ykB1qcHrrkk5d4SkW5au84gQ%3D" 
-        alt="GitRoll Profile Badge" width="90%" style="max-width: 300px;">
-    </a>
+  <a href="https://gitroll.io/profile/u4Yo7jA0xawSbWk9d3bRUDSTV5o12" target="_blank">
+    <img 
+      src="https://gitroll.io/api/badges/profiles/v1/u4Yo7jA0xawSbWk9d3bRUDSTV5o12?theme=light" 
+      alt="GitRoll Profile Badge" 
+      style="width: 300px; max-width: 100%;">
+  </a>
 </p>
 <hr>
+
 
 
 <h1 align="center">🏆 GitHub Trophies</h1>
