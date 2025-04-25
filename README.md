@@ -8,7 +8,13 @@
 
 
 <h1 align="center">👨‍💻 About Me</h1>
-<p align="center">I am Diamond Halder, currently pursuing a Bachelor of Science in Computer Science and Engineering at American International University Bangladesh.</p>
+
+<p align="center">
+  <span style="font-size:24px; font-family:Arial; color:#1E90FF;">
+    <strong>I am Diamond Halder</strong>, currently pursuing a Bachelor of Science in Computer Science and Engineering at <strong>American International University-Bangladesh</strong>.
+  </span>
+</p>
+
 
 <h1 align="center">🔧 Technologies & Tools</h1>
 <p align="center">
@@ -86,12 +92,19 @@
 
 
 
-<! - -Snake - ->
+<h1 align="center">🏆 Snake </h1>
 <div align="center">
 
 ![snake gif](https://github.com/DiamondHalder/DiamondHalder/blob/output/github-snake.svg)
 
 </div>
+
+
+
+<h1 align="center">💡 Quote of the Day</h1>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
 
 
 <p align="center">
