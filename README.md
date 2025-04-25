@@ -8,7 +8,7 @@
 
 
 <h1 align="center">👨‍💻 About Me</h1>
-<p align="center">I am Diamond Halder currently pursuing a bachelor of science in computer science and engineering at American International University Bangladesh.</p>
+<p align="center">I am Diamond Halder currently pursuing a Bachelor of Science in Computer Science and Engineering at American International University Bangladesh.</p>
 
 <h1 align="center">🔧 Technologies & Tools</h1>
 <p align="center">
