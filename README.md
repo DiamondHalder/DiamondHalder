@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Diamond+Halder!;" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+Myself+Diamond+Halder!;" alt="Typing Animation" />
 </p>
 
 
 <h1 align="center">👨‍💻 About Me</h1>
-<p align="center">I am Diamond Halder currently pursuing a Bachelor of Science in Computer Science and Engineering at American International University Bangladesh.</p>
+<p align="center">I am Diamond Halder, currently pursuing a Bachelor of Science in Computer Science and Engineering at American International University Bangladesh.</p>
 
 <h1 align="center">🔧 Technologies & Tools</h1>
 <p align="center">
