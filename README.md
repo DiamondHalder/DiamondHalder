@@ -1,3 +1,5 @@
+![Matrix SVG](./assets/matrix.svg)
+
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=DiamondHalder&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
 </p>
